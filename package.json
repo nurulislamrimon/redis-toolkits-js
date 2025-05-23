@@ -1,0 +1,30 @@
+{
+    "name": "redis-toolkits-js",
+    "version": "1.0.0",
+    "description": "Lightweight Redis utility functions for caching and pub/sub",
+    "main": "src/index.js",
+    "dependencies": {
+        "redis": "^4.6.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nurulislamrimon/redis-toolkits-js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nurulislamrimon/redis-toolkits-js/issues"
+    },
+    "homepage": "https://github.com/nurulislamrimon/redis-toolkits-js#readme",
+    "keywords": [
+        "redis",
+        "cache",
+        "pubsub",
+        "redis-utils",
+        "redis-helper",
+        "node-redis"
+    ],
+    "author": "Nurul Islam Rimon",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    }
+}
