@@ -1,6 +1,6 @@
 {
     "name": "redis-toolkits-js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Lightweight Redis utility functions for caching and pub/sub",
     "main": "src/index.js",
     "dependencies": {

@@ -29,8 +29,7 @@ import {
   publish,
   subscribe,
   redisClient
-} from 'redis-toolkits-js
-';
+} from 'redis-toolkits-js';
 
 // Cache example
 const data = await getOrSetCache('my-key', async () => {
